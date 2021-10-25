@@ -1,13 +1,12 @@
 # practice_RESTful
- RESTful API 연습/공부용 repo입니다.
-- - -
-#
+ RESTful API 연습/공부용 repo입니다.  
+
 
 ### RESTful(REpresentational State Transfer + ful)이란?
 - - -
 - WWW와 같은 분산 하이퍼미디어 시스템을 위한 소프트웨어 아키텍처의 형식을 일컬음
 - 요청 수행 시 RESTful API는 리소스 상태에 대한 표현을 요청자에게 전송함
-#
+
 ### API가 Restful하기 위한 6가지 조건
 - - -
 #### 인터페이스 일관성 
