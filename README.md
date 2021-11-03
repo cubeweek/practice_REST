@@ -43,6 +43,7 @@ REST 공부용 repo입니다.
 ## REST의 구성요소
 ### Resource
 타입, 연관된 데이터, 다른 자원과의 관계 및 작동하는 메소드 세트가 있는 객체
+
 ### Method
 
 ### Representation
